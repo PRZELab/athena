@@ -3,6 +3,7 @@
 </div>
 
 ---
+![image](https://github.com/user-attachments/assets/ad039db6-1ad5-468a-998b-262c25832d38)
 
 Athena is a Discord bot designed to search and identify Lua/LuaU repositories on GitHub, assisting anticheat developers in detecting and patching exploits. The bot only searches Lua/LuaU files.
 
@@ -24,4 +25,6 @@ Current Version: `v0.0.3 (9-3-25)`
 
 ## Credits
 **Developed by:**  
-- zeus (zeusssz)  
+- zeus (zeusssz)
+
+![image](https://github.com/user-attachments/assets/32743232-f7dd-4eb8-8d58-7b053f5c5c2b)
