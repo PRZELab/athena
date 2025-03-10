@@ -18,6 +18,7 @@ Current Version: `v0.0.3 (9-3-25)`
 
 ## Commands
 - `/find [search]`: Searches for the top 30 repositories matching your query and displays them with detected obfuscators.
+  
     ![image](https://github.com/user-attachments/assets/30abbba9-af84-4ad6-b5aa-d172d4e5fb34)
 
 - `/search [repo_name]`: Provides detailed information for a specific repository (e.g., `torvalds/linux`), including obfuscation details.
